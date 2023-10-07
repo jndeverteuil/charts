@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/mongo-express
   pullPolicy: IfNotPresent
-  tag: latest@sha256:939fb036c9b96206968303840d2a9a09b9a682fa44106d1902377d77e32f39c6
+  tag: latest@sha256:c96be1bbb8bb3182cf917ad42c32f2fd741fcc77eff8b0eaeb6f03552cb2800c
 
 service:
   main:
